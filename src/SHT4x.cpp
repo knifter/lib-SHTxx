@@ -1,4 +1,4 @@
-#include "SHT4X.h"
+#include "SHT4x.h"
 
 // #define DEBUG
 // #define TOOLS_LOG_DEBUG
